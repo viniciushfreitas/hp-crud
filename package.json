@@ -1,0 +1,13 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Helper module responsable for manage the CRUD",
+  "private": true,
+  "main": "controller/crt-crud.js",
+  "author": "ViniciusFreitas",
+  "license": "MIT",
+  "dependencies": {
+    "hp-message": "file:../hp-message",
+    "mongoose": "^5.4.2"
+  }
+}
